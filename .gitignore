@@ -1,8 +1,8 @@
 .DS_Store
-  *.swp
-  .zsh_history
-  .ssh/
-  .aws/
-  .gcp/
-  .env
-  .env.*
+*.swp
+.zsh_history
+.ssh/
+.aws/
+.gcp/
+.env
+.env.*
